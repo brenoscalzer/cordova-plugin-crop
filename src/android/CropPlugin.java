@@ -6,7 +6,7 @@ import android.net.Uri;
 import android.os.Bundle;
 import android.os.Environment;
 
-import androidCrop.lib.src.main.java.com.soundcloud.android.crop.Crop;
+import com.soundcloud.android.crop.Crop;
 
 import org.apache.cordova.CallbackContext;
 import org.apache.cordova.CordovaPlugin;
